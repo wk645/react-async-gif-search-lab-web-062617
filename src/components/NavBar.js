@@ -12,7 +12,7 @@ function NavBar(props){
         <div className='navbar-header'>
           <a className='navbar-brand'>
             { props.title }
-          </a>
+         </a>
         </div>
       </div>
     </nav>
